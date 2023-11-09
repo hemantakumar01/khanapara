@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/khanapara/static/css/main.19247ca8.css",
-    "main.js": "/khanapara/static/js/main.9d456e37.js",
+    "main.js": "/khanapara/static/js/main.474ef48c.js",
     "index.html": "/khanapara/index.html",
     "main.19247ca8.css.map": "/khanapara/static/css/main.19247ca8.css.map",
-    "main.9d456e37.js.map": "/khanapara/static/js/main.9d456e37.js.map"
+    "main.474ef48c.js.map": "/khanapara/static/js/main.474ef48c.js.map"
   },
   "entrypoints": [
     "static/css/main.19247ca8.css",
-    "static/js/main.9d456e37.js"
+    "static/js/main.474ef48c.js"
   ]
 }
